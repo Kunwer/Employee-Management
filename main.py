@@ -59,8 +59,8 @@ class Employee:
 
 
 Employees = {}
-Employees[100] = Employee(100, "Kunwer", "Naveesh", "9592068383", "6000", "22", "Male", "F501 ", "Pune", "11/04/2001", "21/09/2023", "IT", "Software Engineer", "BZQPN6016P", "123456789090", "Ajay", "Full-Time")
-Employees[99] = Employee(99, "Kunwer", "N", "9592068383", "3000", "22", "Male", "F501", "Pune", "11/04/2001", "21/09/2023", "Sales", "Software Engineer", "BZQPN6016P", "123456789090", "Ajay", "Full-Time")
+'''Employees[100] = Employee(100, "Kunwer", "Naveesh", "9592068383", "6000", "22", "Male", "F501 ", "Pune", "11/04/2001", "21/09/2023", "IT", "Software Engineer", "BZQPN6016P", "123456789090", "Ajay", "Full-Time")
+Employees[99] = Employee(99, "Kunwer", "N", "9592068383", "3000", "22", "Male", "F501", "Pune", "11/04/2001", "21/09/2023", "Sales", "Software Engineer", "BZQPN6016P", "123456789090", "Ajay", "Full-Time")'''
 while True:
   print("1. Add Employee Record")
   print("2. Delete The Record of Employee")
